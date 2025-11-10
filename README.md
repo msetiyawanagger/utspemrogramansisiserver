@@ -1,4 +1,4 @@
-# Justin Store
+# J Store
 
 Aplikasi CRUD sederhana untuk manajemen Users dan Produk menggunakan Node.js, MySQL, dan Docker.
 
