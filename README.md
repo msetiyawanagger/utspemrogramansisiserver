@@ -27,7 +27,7 @@ Aplikasi CRUD sederhana untuk manajemen Users dan Produk menggunakan Node.js, My
     cd justin_store
     ```
 
-3. **Pastikan file `.env` ada di folder backend**:
+3. **Pastikan file `.env` ada**:
 
     ```env
     DB_HOST=db
@@ -57,7 +57,8 @@ Aplikasi CRUD sederhana untuk manajemen Users dan Produk menggunakan Node.js, My
     docker exec -i crud-mysql mysql -u root -prootpassword crud_app < /justin_store.sql
     ```
 
-7. **Akses aplikasi:**  
+7. **Akses aplikasi:**
+    - Frontend: `http://127.0.0.1:5500/frontend/index.html`
     - Backend: `http://localhost:3000`
 
 ## Catatan
